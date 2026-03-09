@@ -5,3 +5,12 @@ int main()
 int a=10;
 printf("a is.%d",a);
 }
+
+cprogram
+
+#include<iostream>
+using namespace std;
+int main(){
+	int b =90,c =87;
+	cout("addition is a+b is",a+b);
+	}
