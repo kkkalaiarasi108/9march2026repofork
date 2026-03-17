@@ -13,4 +13,16 @@ using namespace std;
 int main(){
 	int b =90,c =87;
 	cout("addition is a+b is",a+b);
-	}
+
+}
+
+==========
+python code
+-----------
+x =9 
+y= 9
+c = x+y
+print(c)
+
+
+-===========
